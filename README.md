@@ -1,0 +1,2 @@
+# recaman
+Racaman sequence visualization
